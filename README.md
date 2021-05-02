@@ -1,5 +1,6 @@
 # typeracer_rankedlist_KZ
 ## Kazakhstan ranked list on typeracer.com <br>
+WPM - average of best 10 last races
 I made a ranked list of Kazakhstan. <br>
 First of all I created a parser <br>
 which is checked around 32k accounts <br>
