@@ -106,3 +106,5 @@ And there are 30 people who can type with 90+ wpm. <br>Not bad!<br>
 | 90       | jandosss1         | 70.11   | https://data.typeracer.com/pit/profile?user=jandosss1         |
 
 ### The full list you can check in rank.csv
+[rank.csv](https://github.com/GMKanat/typeracer_rankedlist_KZ/blob/master/rank.csv)
+
