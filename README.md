@@ -1,6 +1,6 @@
 # typeracer_rankedlist_KZ
 ## Kazakhstan ranked list on typeracer.com <br>
-WPM - average of best 10 last races
+WPM - average of best 10 last races <br>
 I made a ranked list of Kazakhstan. <br>
 First of all I created a parser <br>
 which is checked around 32k accounts <br>
@@ -106,4 +106,3 @@ And there are 30 people who can type with 90+ wpm. <br>Not bad!<br>
 | 90       | jandosss1         | 70.11   | https://data.typeracer.com/pit/profile?user=jandosss1         |
 
 ### The full list you can check in rank.csv
-p.s. can not convert nickname _paradox_ to markdown, be care!
