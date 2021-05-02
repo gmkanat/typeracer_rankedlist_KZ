@@ -6,7 +6,7 @@ which is checked around 32k accounts <br>
 with filter more than 500 races<br>
 given data saved to .txt file<br>
 then converted to .csv<br>
-And there are 30 people who cant type with 90+ wpm. <br>Not bad!<br>
+And there are 30 people who can type with 90+ wpm. <br>Not bad!<br>
 <br>
 #### I am on #21
 <br>
